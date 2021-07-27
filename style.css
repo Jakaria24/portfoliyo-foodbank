@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+    font-family: font-family: 'Montserrat', sans-serif;
+}
+.kfc-section{
+    display: flex;
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+}
+.kfc-details{
+    margin-left: 100px;
+    margin-top: 50px;
+    width: 50%;
+}
+h1{
+    font-size: 60px;
+    color:#000000a1;
+}
+p{
+    color:#0000009c;
+    font-size: 18px;
+    padding-bottom: 30px;
+}
+#kfc-heading-style{
+    color: orange;
+}
+.kfc-details img{
+    width: 90%;
+}
+.food-button {
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    background-image: linear-gradient(orange, tomato);
+    padding:  20px 40px;
+    border-radius: 10px;
+}
+.salt-bay{
+    margin-top: 100px;
+    background-image: url(images/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+    padding: 20px;
+}
+#saltbay-details{
+    text-align: justify;
+}
+.my-recipe{
+    text-align: center;
+    width: 50%;
+    margin-left: 330px
+}
+.recipe-details{
+    display: flex;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+.recipe-single-iteam {
+    width: 25%;
+    box-shadow: 10px 10px 40px #908c8c85;
+    margin-left: 30px;
+    padding: 20px 20px 0px 20px;
+    border-radius: 10px;
+}
+.recipe-details img{
+    width: 100%;
+}
+.recipe-single-iteam p{
+    text-align: justify;
+}
+.subscriber-section{
+    display: flex;
+    box-shadow: 10px 10px 40px #908c8c85;
+    width: 83%;
+    margin-left: 10%;
+    margin-bottom: 100px;
+    border-radius: 10px;
+}
+.our-followers{
+    margin-left: 100px;
+    padding-left: 70px;
+}
+.testimonial{
+    background-color: black;
+    background-image: url(images/R\ \(1\).jpg);
+    background-repeat: no-repeat;
+    padding-bottom: 30px;
+    margin-bottom: 100px;
+}
+.testimonial h1{
+    text-align: center;
+    color:#09ff10;
+}
+.feedback{
+    width: 50%;
+    text-align: center;
+    background-color: #808080c7;
+    margin-left: 25%;
+    margin-bottom: 100px;
+    padding: 20px 20px 0px 20px;
+    border-radius: 10px;
+    color: white;
+}
+.feedback img{
+    border-radius: 50%;
+}
+.feedback p{
+    text-align: justify;
+    color: white;
+}
+
